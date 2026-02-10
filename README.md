@@ -1,8 +1,6 @@
-# aplikasi-login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ec52bad-ecc2-45e7-a17b-bb4bb197ee4c" /># aplikasi-login
 sebuah aplikasi dgn fitur login
 Alur Fitur Login:
-1. Memasukkan nama, email, dan password
-2. Memvalidasi masukan.
-3. Memvalidasi pengguna dengan deteksi wajah.
-4. Memasukkan nama ibu untuk validasi.
-5. Menampilkan halaman home.
+Memasukkan email dan password
+Memvalidasi masukan.
+Menampilkan halaman home
