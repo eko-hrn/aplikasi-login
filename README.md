@@ -1,5 +1,6 @@
 sebuah aplikasi dgn fitur login
-Alur Fitur Login:
-Memasukkan email dan password
-Memvalidasi masukan.
-Menampilkan halaman home
+==
+Alur Fitur Login:<br>
+Memasukkan email dan password<br>
+Memvalidasi masukan.<br>
+Menampilkan halaman home<br>
